@@ -1,6 +1,6 @@
 # FYS-3730 Project Paper
 This project was carried out in collaboration with _Integrated Detector Electronics AS_ (IDEAS)
-# Description
+## Description
 Within this project, the _GDS-100_ and the library _MEGAlib_ will be used to do Compton collimation
 to prove and characterize the system’s capabilities. A data processing method has been
 proposed to ensure that the GDS-100 data can be integrated with MEGAlib. The system’s capabilities
